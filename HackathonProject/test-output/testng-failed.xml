@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestCases.SignInTestApp">
+        <methods>
+          <include name="flushReports"/>
+          <include name="signInTest6" invocation-numbers="0"/>
+          <include name="signInTest4" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- TestCases.SignInTestApp -->
+      <class name="TestCases.ActivityTestApp">
+        <methods>
+          <include name="flushReports"/>
+          <include name="testActivity3"/>
+          <include name="testActivity6"/>
+          <include name="testActivity7"/>
+          <include name="testActivity5"/>
+        </methods>
+      </class> <!-- TestCases.ActivityTestApp -->
+      <class name="TestCases.MovieTestApp">
+        <methods>
+          <include name="flushReports"/>
+          <include name="testMovie6"/>
+          <include name="testMovie3"/>
+        </methods>
+      </class> <!-- TestCases.MovieTestApp -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

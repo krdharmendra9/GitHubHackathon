@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="12" failed="8" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-29T02:58:29 IST" name="Suite" finished-at="2020-10-29T03:12:38 IST" duration-ms="849021">
+    <groups>
+      <group name="SignInTest_InvalidPhone">
+        <method signature="SignInTestApp.signInTest2(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest2" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest4(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest4" class="TestCases.SignInTestApp"/>
+      </group> <!-- SignInTest_InvalidPhone -->
+      <group name="MovieTest_Opera_SearchAnyCity">
+        <method signature="MovieTestApp.testMovie7()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie7" class="TestCases.MovieTestApp"/>
+      </group> <!-- MovieTest_Opera_SearchAnyCity -->
+      <group name="Regression">
+        <method signature="ActivityTestApp.testActivity1()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity1" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity2()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity2" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity3()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity3" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity4()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity4" class="TestCases.ActivityTestApp"/>
+        <method signature="MovieTestApp.testMovie1()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie1" class="TestCases.MovieTestApp"/>
+        <method signature="MovieTestApp.testMovie2()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie2" class="TestCases.MovieTestApp"/>
+        <method signature="MovieTestApp.testMovie3()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie3" class="TestCases.MovieTestApp"/>
+        <method signature="MovieTestApp.testMovie4()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie4" class="TestCases.MovieTestApp"/>
+      </group> <!-- Regression -->
+      <group name="MovieTest_Opera_Chennai">
+        <method signature="MovieTestApp.testMovie2()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie2" class="TestCases.MovieTestApp"/>
+      </group> <!-- MovieTest_Opera_Chennai -->
+      <group name="Smoke">
+        <method signature="ActivityTestApp.testActivity5()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity5" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity6()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity6" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity7()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity7" class="TestCases.ActivityTestApp"/>
+        <method signature="MovieTestApp.testMovie5()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie5" class="TestCases.MovieTestApp"/>
+        <method signature="MovieTestApp.testMovie6()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie6" class="TestCases.MovieTestApp"/>
+        <method signature="MovieTestApp.testMovie7()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie7" class="TestCases.MovieTestApp"/>
+        <method signature="SignInTestApp.signInTest1(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest1" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest2(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest2" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest3(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest3" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest4(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest4" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest5(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest5" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest6(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest6" class="TestCases.SignInTestApp"/>
+      </group> <!-- Smoke -->
+      <group name="MovieTest_Firefox_SearchAnyCity">
+        <method signature="MovieTestApp.testMovie4()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie4" class="TestCases.MovieTestApp"/>
+      </group> <!-- MovieTest_Firefox_SearchAnyCity -->
+      <group name="ActivityTest_Chrome_Mumbai">
+        <method signature="ActivityTestApp.testActivity1()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity1" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity5()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity5" class="TestCases.ActivityTestApp"/>
+      </group> <!-- ActivityTest_Chrome_Mumbai -->
+      <group name="MovieTest_Edge_SearchAnyCity">
+        <method signature="MovieTestApp.testMovie6()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie6" class="TestCases.MovieTestApp"/>
+      </group> <!-- MovieTest_Edge_SearchAnyCity -->
+      <group name="MovieTest_Chrome_Mumbai">
+        <method signature="MovieTestApp.testMovie1()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie1" class="TestCases.MovieTestApp"/>
+        <method signature="MovieTestApp.testMovie5()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie5" class="TestCases.MovieTestApp"/>
+      </group> <!-- MovieTest_Chrome_Mumbai -->
+      <group name="ActivityTest_Opera_SearchAnyCity">
+        <method signature="ActivityTestApp.testActivity4()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity4" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity7()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity7" class="TestCases.ActivityTestApp"/>
+      </group> <!-- ActivityTest_Opera_SearchAnyCity -->
+      <group name="SignInTest_InvalidPassword">
+        <method signature="SignInTestApp.signInTest6(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest6" class="TestCases.SignInTestApp"/>
+      </group> <!-- SignInTest_InvalidPassword -->
+      <group name="ActivityTest_Edge_Pune">
+        <method signature="ActivityTestApp.testActivity3()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity3" class="TestCases.ActivityTestApp"/>
+        <method signature="ActivityTestApp.testActivity6()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity6" class="TestCases.ActivityTestApp"/>
+      </group> <!-- ActivityTest_Edge_Pune -->
+      <group name="SignInTest_InvalidEmail">
+        <method signature="SignInTestApp.signInTest1(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest1" class="TestCases.SignInTestApp"/>
+      </group> <!-- SignInTest_InvalidEmail -->
+      <group name="ActivityTest_Firefox_Chennai">
+        <method signature="ActivityTestApp.testActivity2()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" name="testActivity2" class="TestCases.ActivityTestApp"/>
+      </group> <!-- ActivityTest_Firefox_Chennai -->
+      <group name="SignInTest_BlankEmail">
+        <method signature="SignInTestApp.signInTest3(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest3" class="TestCases.SignInTestApp"/>
+        <method signature="SignInTestApp.signInTest5(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest5" class="TestCases.SignInTestApp"/>
+      </group> <!-- SignInTest_BlankEmail -->
+      <group name="MovieTest_Edge_Pune">
+        <method signature="MovieTestApp.testMovie3()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie3" class="TestCases.MovieTestApp"/>
+      </group> <!-- MovieTest_Edge_Pune -->
+    </groups>
+    <test started-at="2020-10-29T02:58:29 IST" name="Test" finished-at="2020-10-29T03:12:38 IST" duration-ms="849021">
+      <class name="TestCases.MovieTestApp">
+        <test-method signature="testMovie1()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:01:37 IST" name="testMovie1" finished-at="2020-10-29T03:01:52 IST" duration-ms="14812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie1 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:01:52 IST" name="flushReports" finished-at="2020-10-29T03:01:54 IST" duration-ms="1844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testMovie2()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:01:54 IST" name="testMovie2" finished-at="2020-10-29T03:02:13 IST" duration-ms="18988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie2 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:02:13 IST" name="flushReports" finished-at="2020-10-29T03:02:15 IST" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testMovie3()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:02:15 IST" name="testMovie3" finished-at="2020-10-29T03:02:15 IST" duration-ms="8" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at TestCases.MovieTestApp.testMovie3(MovieTestApp.java:52)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie3 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:02:15 IST" name="flushReports" finished-at="2020-10-29T03:02:15 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testMovie4()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:02:15 IST" name="testMovie4" finished-at="2020-10-29T03:02:32 IST" duration-ms="17245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie4 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:02:32 IST" name="flushReports" finished-at="2020-10-29T03:02:38 IST" duration-ms="6133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testMovie5()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:02:38 IST" name="testMovie5" finished-at="2020-10-29T03:03:05 IST" duration-ms="27514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie5 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:03:05 IST" name="flushReports" finished-at="2020-10-29T03:03:07 IST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testMovie6()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:03:07 IST" name="testMovie6" finished-at="2020-10-29T03:03:07 IST" duration-ms="0" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at TestCases.MovieTestApp.testMovie6(MovieTestApp.java:102)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie6 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:03:07 IST" name="flushReports" finished-at="2020-10-29T03:03:07 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testMovie7()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:03:07 IST" name="testMovie7" finished-at="2020-10-29T03:03:36 IST" duration-ms="29408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovie7 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T03:03:36 IST" name="flushReports" finished-at="2020-10-29T03:03:38 IST" duration-ms="1751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- TestCases.MovieTestApp -->
+      <class name="TestCases.SignInTestApp">
+        <test-method signature="signInTest1(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T02:58:30 IST" name="signInTest1" data-provider="getEmailTestData1" finished-at="2020-10-29T02:59:01 IST" duration-ms="31796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Email Id=bix, Password=, Comment=Invalid Email ID}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest1 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T02:59:01 IST" name="flushReports" finished-at="2020-10-29T02:59:03 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="signInTest2(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T02:59:03 IST" name="signInTest2" data-provider="getEmailTestData2" finished-at="2020-10-29T02:59:33 IST" duration-ms="30279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Email Id=852345667799, Password=, Comment=Invalid Phone Number}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest2 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T02:59:33 IST" name="flushReports" finished-at="2020-10-29T02:59:35 IST" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="signInTest3(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T02:59:35 IST" name="signInTest3" data-provider="getEmailTestData3" finished-at="2020-10-29T03:00:03 IST" duration-ms="27924" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Email Id=    , Password=, Comment=Blank Email ID}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest3 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:00:03 IST" name="flushReports" finished-at="2020-10-29T03:00:04 IST" duration-ms="1183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="signInTest4(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:00:04 IST" name="signInTest4" data-provider="getEmailTestData2" finished-at="2020-10-29T03:00:54 IST" duration-ms="50546" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Email Id=852345667799, Password=, Comment=Invalid Phone Number}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Expected condition failed: waiting for number of open windows to be 2 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201012085804, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 11792, moz:profile: C:\Users\KIIT\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8aa0c142-a35e-4f3e-a49c-c7234085e812]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Expected condition failed: waiting for number of open windows to be 2 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201012085804, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 11792, moz:profile: C:\Users\KIIT\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8aa0c142-a35e-4f3e-a49c-c7234085e812
+at org.testng.Assert.fail(Assert.java:99)
+at BaseClasses.PageBaseClass.reportFail(PageBaseClass.java:98)
+at SignInPageClasses.LocationPage.signIn2(LocationPage.java:122)
+at TestCases.SignInTestApp.signInTest4(SignInTestApp.java:89)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest4 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:00:54 IST" name="flushReports" finished-at="2020-10-29T03:00:58 IST" duration-ms="3856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="signInTest5(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:00:58 IST" name="signInTest5" data-provider="getEmailTestData3" finished-at="2020-10-29T03:01:35 IST" duration-ms="36876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Email Id=    , Password=, Comment=Blank Email ID}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest5 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:01:35 IST" name="flushReports" finished-at="2020-10-29T03:01:37 IST" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="signInTest6(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:01:37 IST" name="signInTest6" data-provider="getEmailTestData4" finished-at="2020-10-29T03:01:37 IST" duration-ms="28" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Email Id=monicafx101, Password=852345667799, Comment=Valid Email ID and Invalid Password}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at TestCases.SignInTestApp.signInTest6(SignInTestApp.java:114)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest6 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T03:01:37 IST" name="flushReports" finished-at="2020-10-29T03:01:37 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- TestCases.SignInTestApp -->
+      <class name="TestCases.ActivityTestApp">
+        <test-method signature="testActivity1()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:03:38 IST" name="testActivity1" finished-at="2020-10-29T03:03:55 IST" duration-ms="17042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity1 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:03:55 IST" name="flushReports" finished-at="2020-10-29T03:03:57 IST" duration-ms="1882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testActivity2()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:03:57 IST" name="testActivity2" finished-at="2020-10-29T03:04:15 IST" duration-ms="18196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity2 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:04:15 IST" name="flushReports" finished-at="2020-10-29T03:04:21 IST" duration-ms="5575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testActivity3()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:04:21 IST" name="testActivity3" finished-at="2020-10-29T03:04:21 IST" duration-ms="16" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at TestCases.ActivityTestApp.testActivity3(ActivityTestApp.java:58)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity3 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:04:21 IST" name="flushReports" finished-at="2020-10-29T03:04:21 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testActivity4()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:04:21 IST" name="testActivity4" finished-at="2020-10-29T03:04:39 IST" duration-ms="17862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity4 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:04:39 IST" name="flushReports" finished-at="2020-10-29T03:04:41 IST" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testActivity5()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:04:41 IST" name="testActivity5" finished-at="2020-10-29T03:08:06 IST" duration-ms="204573" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[timeout: Timed out receiving message from renderer: 59.982
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\KIIT\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56111}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 69ba337b3a702f7ce607d83d59fd8302]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: timeout: Timed out receiving message from renderer: 59.982
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\KIIT\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56111}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 69ba337b3a702f7ce607d83d59fd8302
+at org.testng.Assert.fail(Assert.java:99)
+at BaseClasses.PageBaseClass.reportFail(PageBaseClass.java:98)
+at ActivityPageClasses.PriceSportsPage.activityDetails(PriceSportsPage.java:113)
+at TestCases.ActivityTestApp.testActivity5(ActivityTestApp.java:100)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity5 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:08:06 IST" name="flushReports" finished-at="2020-10-29T03:08:07 IST" duration-ms="1543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testActivity6()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:08:07 IST" name="testActivity6" finished-at="2020-10-29T03:08:07 IST" duration-ms="16" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at TestCases.ActivityTestApp.testActivity6(ActivityTestApp.java:107)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity6 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:08:07 IST" name="flushReports" finished-at="2020-10-29T03:08:07 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="testActivity7()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:08:07 IST" name="testActivity7" finished-at="2020-10-29T03:12:36 IST" duration-ms="269150" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[timeout: Timed out receiving message from renderer: 59.980
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: operadriver=85.0.4183.102 (ffe848af6a5df4fa127e2929331116b7f9f1cb30-refs/branch-heads/4183@{#1770}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.opera.OperaDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: opera, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56220}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, opera: {operadriverVersion: 85.0.4183.102 (ffe848af6a5d..., userDataDir: C:\Users\KIIT\AppData\Local...}, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.121, webStorageEnabled: true, webauthn:virtualAuthenticators: true}
+Session ID: 133908a41b1f0eae67c7f4c1d67ec714]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: timeout: Timed out receiving message from renderer: 59.980
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: operadriver=85.0.4183.102 (ffe848af6a5df4fa127e2929331116b7f9f1cb30-refs/branch-heads/4183@{#1770}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.opera.OperaDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: opera, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56220}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, opera: {operadriverVersion: 85.0.4183.102 (ffe848af6a5d..., userDataDir: C:\Users\KIIT\AppData\Local...}, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.121, webStorageEnabled: true, webauthn:virtualAuthenticators: true}
+Session ID: 133908a41b1f0eae67c7f4c1d67ec714
+at org.testng.Assert.fail(Assert.java:99)
+at BaseClasses.PageBaseClass.reportFail(PageBaseClass.java:98)
+at ActivityPageClasses.PriceSportsPage.activityDetails(PriceSportsPage.java:113)
+at TestCases.ActivityTestApp.testActivity7(ActivityTestApp.java:140)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity7 -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T03:12:36 IST" name="flushReports" finished-at="2020-10-29T03:12:38 IST" duration-ms="1679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- TestCases.ActivityTestApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
