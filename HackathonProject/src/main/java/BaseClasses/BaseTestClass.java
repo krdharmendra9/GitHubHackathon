@@ -55,9 +55,9 @@ public class BaseTestClass {
 	case 3:	System.setProperty("webdriver.opera.driver", System.getProperty("user.dir") + "/src/test/resources/drivers/operadriver.exe");
 			driver = new OperaDriver();
 			break;
-	case 4: System.setProperty("webdriver.edge.driver", System.getProperty("user.dir") + "/src/test/resources/drivers/msedgedriver.exe");
-			driver = new EdgeDriver();
-			break;
+	//case 4: System.setProperty("webdriver.edge.driver", System.getProperty("user.dir") + "/src/test/resources/drivers/msedgedriver.exe");
+			//driver = new EdgeDriver();
+			//break;
 	default:
 	}  
 	}

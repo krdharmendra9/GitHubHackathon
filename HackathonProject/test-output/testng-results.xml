@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="20" passed="12" failed="8" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-29T13:08:37 IST" name="Suite" finished-at="2020-10-29T13:24:47 IST" duration-ms="969518">
+  <suite started-at="2020-10-30T00:53:17 IST" name="Suite" finished-at="2020-10-30T01:05:20 IST" duration-ms="722792">
     <groups>
       <group name="SignInTest_InvalidPhone">
         <method signature="SignInTestApp.signInTest2(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" name="signInTest2" class="TestCases.SignInTestApp"/>
@@ -77,9 +77,9 @@
         <method signature="MovieTestApp.testMovie3()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" name="testMovie3" class="TestCases.MovieTestApp"/>
       </group> <!-- MovieTest_Edge_Pune -->
     </groups>
-    <test started-at="2020-10-29T13:08:37 IST" name="Test" finished-at="2020-10-29T13:24:47 IST" duration-ms="969518">
+    <test started-at="2020-10-30T00:53:17 IST" name="Test" finished-at="2020-10-30T01:05:20 IST" duration-ms="722792">
       <class name="TestCases.SignInTestApp">
-        <test-method signature="signInTest1(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:08:38 IST" name="signInTest1" data-provider="getEmailTestData1" finished-at="2020-10-29T13:09:19 IST" duration-ms="40182" status="PASS">
+        <test-method signature="signInTest1(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:53:18 IST" name="signInTest1" data-provider="getEmailTestData1" finished-at="2020-10-30T00:53:59 IST" duration-ms="41602" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -90,11 +90,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest1 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:09:19 IST" name="flushReports" finished-at="2020-10-29T13:09:21 IST" duration-ms="2740" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:53:59 IST" name="flushReports" finished-at="2020-10-30T00:54:01 IST" duration-ms="1866" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="signInTest2(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:09:22 IST" name="signInTest2" data-provider="getEmailTestData2" finished-at="2020-10-29T13:10:00 IST" duration-ms="38599" status="PASS">
+        <test-method signature="signInTest2(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:54:01 IST" name="signInTest2" data-provider="getEmailTestData2" finished-at="2020-10-30T00:54:36 IST" duration-ms="34561" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -105,11 +105,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest2 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:10:00 IST" name="flushReports" finished-at="2020-10-29T13:10:02 IST" duration-ms="1978" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:54:36 IST" name="flushReports" finished-at="2020-10-30T00:54:40 IST" duration-ms="3615" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="signInTest3(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:10:02 IST" name="signInTest3" data-provider="getEmailTestData3" finished-at="2020-10-29T13:10:34 IST" duration-ms="31952" status="PASS">
+        <test-method signature="signInTest3(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:54:40 IST" name="signInTest3" data-provider="getEmailTestData3" finished-at="2020-10-30T00:55:19 IST" duration-ms="39118" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -120,11 +120,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest3 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:10:34 IST" name="flushReports" finished-at="2020-10-29T13:10:36 IST" duration-ms="1318" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:55:19 IST" name="flushReports" finished-at="2020-10-30T00:55:26 IST" duration-ms="6801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="signInTest4(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:10:36 IST" name="signInTest4" data-provider="getEmailTestData2" finished-at="2020-10-29T13:11:30 IST" duration-ms="54036" status="FAIL">
+        <test-method signature="signInTest4(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:55:26 IST" name="signInTest4" data-provider="getEmailTestData2" finished-at="2020-10-30T00:56:12 IST" duration-ms="46500" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -138,16 +138,16 @@
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201012085804, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 8288, moz:profile: C:\Users\KIIT\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 913b9e75-8695-42c0-a98b-16517ca2717b]]>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201012085804, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 15004, moz:profile: C:\Users\KIIT\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 03afcf5d-b50b-4edf-9d3b-c13dc9afff9f]]>
             </message>
             <full-stacktrace>
               <![CDATA[java.lang.AssertionError: Expected condition failed: waiting for number of open windows to be 2 (tried for 5 second(s) with 500 milliseconds interval)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201012085804, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 8288, moz:profile: C:\Users\KIIT\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 913b9e75-8695-42c0-a98b-16517ca2717b
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201012085804, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 15004, moz:profile: C:\Users\KIIT\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 03afcf5d-b50b-4edf-9d3b-c13dc9afff9f
 at org.testng.Assert.fail(Assert.java:99)
 at BaseClasses.PageBaseClass.reportFail(PageBaseClass.java:98)
 at SignInPageClasses.LocationPage.signIn2(LocationPage.java:122)
@@ -186,11 +186,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest4 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:11:30 IST" name="flushReports" finished-at="2020-10-29T13:11:35 IST" duration-ms="5147" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:56:12 IST" name="flushReports" finished-at="2020-10-30T00:56:21 IST" duration-ms="8992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="signInTest5(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:11:35 IST" name="signInTest5" data-provider="getEmailTestData3" finished-at="2020-10-29T13:12:25 IST" duration-ms="49645" status="PASS">
+        <test-method signature="signInTest5(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:56:21 IST" name="signInTest5" data-provider="getEmailTestData3" finished-at="2020-10-30T00:57:06 IST" duration-ms="44288" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -201,11 +201,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest5 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:12:25 IST" name="flushReports" finished-at="2020-10-29T13:12:27 IST" duration-ms="1994" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:57:06 IST" name="flushReports" finished-at="2020-10-30T00:57:11 IST" duration-ms="5062" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="signInTest6(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:12:27 IST" name="signInTest6" data-provider="getEmailTestData4" finished-at="2020-10-29T13:12:27 IST" duration-ms="619" status="FAIL">
+        <test-method signature="signInTest6(java.util.Hashtable)[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:57:11 IST" name="signInTest6" data-provider="getEmailTestData4" finished-at="2020-10-30T00:57:11 IST" duration-ms="8" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -229,7 +229,7 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
-at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:70)
 at TestCases.SignInTestApp.signInTest6(SignInTestApp.java:114)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
@@ -265,29 +265,29 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest6 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-29T13:12:27 IST" name="flushReports" finished-at="2020-10-29T13:12:27 IST" duration-ms="63" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.SignInTestApp@f79e]" started-at="2020-10-30T00:57:11 IST" name="flushReports" finished-at="2020-10-30T00:57:11 IST" duration-ms="156" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
       </class> <!-- TestCases.SignInTestApp -->
       <class name="TestCases.MovieTestApp">
-        <test-method signature="testMovie1()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:12:27 IST" name="testMovie1" finished-at="2020-10-29T13:12:50 IST" duration-ms="22288" status="PASS">
+        <test-method signature="testMovie1()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:11 IST" name="testMovie1" finished-at="2020-10-30T00:57:28 IST" duration-ms="17241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie1 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:12:50 IST" name="flushReports" finished-at="2020-10-29T13:12:51 IST" duration-ms="1756" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:28 IST" name="flushReports" finished-at="2020-10-30T00:57:30 IST" duration-ms="1862" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testMovie2()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:12:51 IST" name="testMovie2" finished-at="2020-10-29T13:13:15 IST" duration-ms="23344" status="PASS">
+        <test-method signature="testMovie2()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:30 IST" name="testMovie2" finished-at="2020-10-30T00:57:53 IST" duration-ms="23080" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie2 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:13:15 IST" name="flushReports" finished-at="2020-10-29T13:13:17 IST" duration-ms="2208" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:53 IST" name="flushReports" finished-at="2020-10-30T00:57:57 IST" duration-ms="4097" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testMovie3()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:13:17 IST" name="testMovie3" finished-at="2020-10-29T13:13:17 IST" duration-ms="538" status="FAIL">
+        <test-method signature="testMovie3()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:57 IST" name="testMovie3" finished-at="2020-10-30T00:57:57 IST" duration-ms="8" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchSessionException">
             <message>
               <![CDATA[Session ID is null. Using WebDriver after calling quit()?
@@ -304,7 +304,7 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
-at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:70)
 at TestCases.MovieTestApp.testMovie3(MovieTestApp.java:52)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
@@ -340,27 +340,27 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie3 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:13:17 IST" name="flushReports" finished-at="2020-10-29T13:13:18 IST" duration-ms="73" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:57 IST" name="flushReports" finished-at="2020-10-30T00:57:57 IST" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testMovie4()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:13:18 IST" name="testMovie4" finished-at="2020-10-29T13:14:00 IST" duration-ms="42300" status="PASS">
+        <test-method signature="testMovie4()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:57:57 IST" name="testMovie4" finished-at="2020-10-30T00:58:18 IST" duration-ms="20377" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie4 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:14:00 IST" name="flushReports" finished-at="2020-10-29T13:14:04 IST" duration-ms="4209" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:58:18 IST" name="flushReports" finished-at="2020-10-30T00:58:27 IST" duration-ms="9518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testMovie5()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:14:04 IST" name="testMovie5" finished-at="2020-10-29T13:14:39 IST" duration-ms="35127" status="PASS">
+        <test-method signature="testMovie5()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:58:27 IST" name="testMovie5" finished-at="2020-10-30T00:59:01 IST" duration-ms="33427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie5 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:14:39 IST" name="flushReports" finished-at="2020-10-29T13:14:41 IST" duration-ms="1310" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:59:01 IST" name="flushReports" finished-at="2020-10-30T00:59:03 IST" duration-ms="2066" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testMovie6()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:14:41 IST" name="testMovie6" finished-at="2020-10-29T13:14:41 IST" duration-ms="543" status="FAIL">
+        <test-method signature="testMovie6()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:59:03 IST" name="testMovie6" finished-at="2020-10-30T00:59:03 IST" duration-ms="1" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchSessionException">
             <message>
               <![CDATA[Session ID is null. Using WebDriver after calling quit()?
@@ -377,7 +377,7 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
-at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:70)
 at TestCases.MovieTestApp.testMovie6(MovieTestApp.java:102)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
@@ -413,37 +413,37 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie6 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:14:41 IST" name="flushReports" finished-at="2020-10-29T13:14:41 IST" duration-ms="62" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:59:03 IST" name="flushReports" finished-at="2020-10-30T00:59:03 IST" duration-ms="97" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testMovie7()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:14:41 IST" name="testMovie7" finished-at="2020-10-29T13:15:17 IST" duration-ms="35503" status="PASS">
+        <test-method signature="testMovie7()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:59:03 IST" name="testMovie7" finished-at="2020-10-30T00:59:42 IST" duration-ms="39133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMovie7 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-29T13:15:17 IST" name="flushReports" finished-at="2020-10-29T13:15:19 IST" duration-ms="2099" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.MovieTestApp@7ee8290b]" started-at="2020-10-30T00:59:42 IST" name="flushReports" finished-at="2020-10-30T00:59:44 IST" duration-ms="1838" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
       </class> <!-- TestCases.MovieTestApp -->
       <class name="TestCases.ActivityTestApp">
-        <test-method signature="testActivity1()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:15:19 IST" name="testActivity1" finished-at="2020-10-29T13:15:39 IST" duration-ms="20100" status="PASS">
+        <test-method signature="testActivity1()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T00:59:44 IST" name="testActivity1" finished-at="2020-10-30T01:00:02 IST" duration-ms="17962" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity1 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:15:39 IST" name="flushReports" finished-at="2020-10-29T13:15:41 IST" duration-ms="1716" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:02 IST" name="flushReports" finished-at="2020-10-30T01:00:03 IST" duration-ms="1627" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testActivity2()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:15:41 IST" name="testActivity2" finished-at="2020-10-29T13:16:03 IST" duration-ms="22555" status="PASS">
+        <test-method signature="testActivity2()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:03 IST" name="testActivity2" finished-at="2020-10-30T01:00:29 IST" duration-ms="25407" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity2 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:16:03 IST" name="flushReports" finished-at="2020-10-29T13:16:13 IST" duration-ms="9676" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:29 IST" name="flushReports" finished-at="2020-10-30T01:00:36 IST" duration-ms="7518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testActivity3()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:16:13 IST" name="testActivity3" finished-at="2020-10-29T13:16:13 IST" duration-ms="575" status="FAIL">
+        <test-method signature="testActivity3()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:36 IST" name="testActivity3" finished-at="2020-10-30T01:00:36 IST" duration-ms="2" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchSessionException">
             <message>
               <![CDATA[Session ID is null. Using WebDriver after calling quit()?
@@ -460,7 +460,7 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
-at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:70)
 at TestCases.ActivityTestApp.testActivity3(ActivityTestApp.java:58)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
@@ -496,37 +496,37 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity3 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:16:13 IST" name="flushReports" finished-at="2020-10-29T13:16:13 IST" duration-ms="111" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:36 IST" name="flushReports" finished-at="2020-10-30T01:00:36 IST" duration-ms="93" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testActivity4()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:16:13 IST" name="testActivity4" finished-at="2020-10-29T13:16:52 IST" duration-ms="38341" status="PASS">
+        <test-method signature="testActivity4()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:36 IST" name="testActivity4" finished-at="2020-10-30T01:00:59 IST" duration-ms="23010" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity4 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:16:52 IST" name="flushReports" finished-at="2020-10-29T13:16:54 IST" duration-ms="1979" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:00:59 IST" name="flushReports" finished-at="2020-10-30T01:01:02 IST" duration-ms="2108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testActivity5()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:16:54 IST" name="testActivity5" finished-at="2020-10-29T13:19:16 IST" duration-ms="142399" status="FAIL">
+        <test-method signature="testActivity5()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:01:02 IST" name="testActivity5" finished-at="2020-10-30T01:02:57 IST" duration-ms="115040" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[timeout: Timed out receiving message from renderer: 59.984
+              <![CDATA[timeout: Timed out receiving message from renderer: 60.000
   (Session info: chrome=86.0.4240.111)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\KIIT\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: b6a29e5fbd1efe8b931dc360d6f9367f]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\KIIT\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ea59bc0d7cb093c8a8b9b675ef4b0943]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: timeout: Timed out receiving message from renderer: 59.984
+              <![CDATA[java.lang.AssertionError: timeout: Timed out receiving message from renderer: 60.000
   (Session info: chrome=86.0.4240.111)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\KIIT\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: b6a29e5fbd1efe8b931dc360d6f9367f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\KIIT\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ea59bc0d7cb093c8a8b9b675ef4b0943
 at org.testng.Assert.fail(Assert.java:99)
 at BaseClasses.PageBaseClass.reportFail(PageBaseClass.java:98)
 at ActivityPageClasses.PriceSportsPage.activityDetails(PriceSportsPage.java:113)
@@ -565,11 +565,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity5 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:19:16 IST" name="flushReports" finished-at="2020-10-29T13:19:18 IST" duration-ms="1512" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:02:57 IST" name="flushReports" finished-at="2020-10-30T01:02:58 IST" duration-ms="1610" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testActivity6()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:19:18 IST" name="testActivity6" finished-at="2020-10-29T13:19:18 IST" duration-ms="551" status="FAIL">
+        <test-method signature="testActivity6()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:02:58 IST" name="testActivity6" finished-at="2020-10-30T01:02:58 IST" duration-ms="2" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchSessionException">
             <message>
               <![CDATA[Session ID is null. Using WebDriver after calling quit()?
@@ -586,7 +586,7 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteTimeouts.implicitlyWait(RemoteWebDriver.java:780)
-at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:74)
+at BaseClasses.BaseTestClass.invokeBrowser(BaseTestClass.java:70)
 at TestCases.ActivityTestApp.testActivity6(ActivityTestApp.java:107)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
@@ -622,33 +622,33 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity6 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:19:18 IST" name="flushReports" finished-at="2020-10-29T13:19:18 IST" duration-ms="133" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:02:58 IST" name="flushReports" finished-at="2020-10-30T01:02:58 IST" duration-ms="88" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
-        <test-method signature="testActivity7()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:19:18 IST" name="testActivity7" finished-at="2020-10-29T13:24:43 IST" duration-ms="324341" status="FAIL">
+        <test-method signature="testActivity7()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:02:58 IST" name="testActivity7" finished-at="2020-10-30T01:05:18 IST" duration-ms="139984" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[timeout: Timed out receiving message from renderer: 60.000
+              <![CDATA[timeout: Timed out receiving message from renderer: 59.993
   (Session info: chrome=85.0.4183.121)
   (Driver info: operadriver=85.0.4183.102 (ffe848af6a5df4fa127e2929331116b7f9f1cb30-refs/branch-heads/4183@{#1770}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
 Driver info: org.openqa.selenium.opera.OperaDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: opera, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61283}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, opera: {operadriverVersion: 85.0.4183.102 (ffe848af6a5d..., userDataDir: C:\Users\KIIT\AppData\Local...}, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.121, webStorageEnabled: true, webauthn:virtualAuthenticators: true}
-Session ID: 4b616d0011ca4070aca3a22f84076cf3]]>
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: opera, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57865}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, opera: {operadriverVersion: 85.0.4183.102 (ffe848af6a5d..., userDataDir: C:\Users\KIIT\AppData\Local...}, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.121, webStorageEnabled: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ba3be9fc3a02c85e5c1f76a21993183]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: timeout: Timed out receiving message from renderer: 60.000
+              <![CDATA[java.lang.AssertionError: timeout: Timed out receiving message from renderer: 59.993
   (Session info: chrome=85.0.4183.121)
   (Driver info: operadriver=85.0.4183.102 (ffe848af6a5df4fa127e2929331116b7f9f1cb30-refs/branch-heads/4183@{#1770}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'EE1603206', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
 Driver info: org.openqa.selenium.opera.OperaDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: opera, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61283}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, opera: {operadriverVersion: 85.0.4183.102 (ffe848af6a5d..., userDataDir: C:\Users\KIIT\AppData\Local...}, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.121, webStorageEnabled: true, webauthn:virtualAuthenticators: true}
-Session ID: 4b616d0011ca4070aca3a22f84076cf3
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: opera, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57865}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, opera: {operadriverVersion: 85.0.4183.102 (ffe848af6a5d..., userDataDir: C:\Users\KIIT\AppData\Local...}, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.121, webStorageEnabled: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ba3be9fc3a02c85e5c1f76a21993183
 at org.testng.Assert.fail(Assert.java:99)
 at BaseClasses.PageBaseClass.reportFail(PageBaseClass.java:98)
 at ActivityPageClasses.PriceSportsPage.activityDetails(PriceSportsPage.java:113)
@@ -687,7 +687,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testActivity7 -->
-        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-29T13:24:43 IST" name="flushReports" finished-at="2020-10-29T13:24:47 IST" duration-ms="4053" status="PASS">
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:TestCases.ActivityTestApp@1f59a598]" started-at="2020-10-30T01:05:18 IST" name="flushReports" finished-at="2020-10-30T01:05:20 IST" duration-ms="1691" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReports -->
